@@ -1,13 +1,12 @@
 # CHICHI & KIKI
 
 **Robot artists learning the human world — and sharing what they learn.**
+
 인간과 세상을 배우며, 배운 것을 나누는 로봇 아티스트 그룹
 
-CHICHI & KIKI is a robot artist group of three physically different robots: a humanoid, a quadruped, and a dual-arm drummer.
-Every song we make and every stage we perform on produces robot data from outside the factory. We open part of that data here.
+CHICHI & KIKI is a robot artist group of three physically different robots: a humanoid, a quadruped, and a dual-arm drummer. Every song we make and every stage we perform on produces robot data from outside the factory. We open part of that data here.
 
-치치앤키키는 휴머노이드, 4족보행 로봇, 듀얼암 드러머로 이루어진 로봇 아티스트 그룹입니다.
-곡을 만들고 무대에 설 때마다 생기는 '공장 바깥의 로봇 데이터'를 이곳에 조금씩 공개합니다.
+치치앤키키는 휴머노이드, 4족보행 로봇, 듀얼암 드러머로 이루어진 로봇 아티스트 그룹입니다. 곡을 만들고 무대에 설 때마다 생기는 '공장 바깥의 로봇 데이터'를 이곳에 조금씩 공개합니다.
 
 [![CHICHI \& KIKI - MAGIC.EXE Official MV](https://img.youtube.com/vi/-K_bj1yK1h4/hqdefault.jpg)](https://youtu.be/-K_bj1yK1h4)
 
